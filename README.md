@@ -49,7 +49,4 @@ Relatório consolidado com todas as atividades realizadas e evidências do desen
 
 
 Davlyo Wilson da Conceição de Souza - 2326257 (Idealização das APIs do sistema)
-Patrick Kauã Firmino Pinheiro - 2323852 (Modelagem do banco de dados, inserção da informações no github, Idealização das APIs do sistema) 
-Jamille Teixeira Costa - 2323815 (Prototipação e arquitetura das tecnologias, inserção da informações no github) 
-José Ary Crisostomo Neto - 2327085 (Elaboração da arquitetura e tecnologias usadas) 
-Débora Alice Pio Memória Santiago 2323810 (Criação de diagramas, inserção da informações no github)
+
