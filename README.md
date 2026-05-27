@@ -48,5 +48,8 @@ Relatório consolidado com todas as atividades realizadas e evidências do desen
 # Integrantes e Matrículas, e funções:
 
 
-Davlyo Wilson da Conceição de Souza - 2326257 (Idealização das APIs do sistema)
+Davlyo Wilson da Conceição de Souza - 2326257 (Desenvolvimento solo)
+
+Obs: Professor, estou realizando este trabalho individualmente porque reprovei anteriormente na disciplina Projeto Aplicado de Multiplataformas Etapa 2. Os integrantes do meu antigo grupo já concluíram a cadeira e, por esse motivo, o grupo não existe mais. Diante dessa situação, a tutora autorizou que eu realizasse e entregasse o projeto de forma solo. Assim, estou submetendo este trabalho individualmente conforme orientação recebida.
+
 
